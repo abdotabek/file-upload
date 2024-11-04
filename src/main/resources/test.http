@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/data/add
+Content-Type: application/json
+
+{
+  "name": "Example Name",
+  "url": "http://example.com",
+  "size": 12345
+}
+
